@@ -6,4 +6,4 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=xgracias)
 
-![codewars](https://www.codewars.com/users/xgracias/badges/small) 
+[![codewars](https://www.codewars.com/users/xgracias/badges/small)](https://www.codewars.com/users/xgracias)
